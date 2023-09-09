@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8e353836601a4b4ca34e6c66b96374c, type: 3}
+  m_Name: StaticData
+  m_EditorClassIdentifier: 
+  LevelUI: {fileID: 3606556057758911657, guid: 1c38c74b3a9ab2f459dbfda2845f7550, type: 3}
+  Levels:
+  - {fileID: 8418518905237146522, guid: 013cf8fce8fd39e4a9230df1a40ec89b, type: 3}
+  - {fileID: 8116131724369735144, guid: 5816fcc2296661b43a4ee6b35c1d06e4, type: 3}
+  BackToSlotDuration: 0.2

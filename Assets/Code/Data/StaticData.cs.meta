@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8e353836601a4b4ca34e6c66b96374c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeliveryBoxView: {fileID: 8217487715903122791, guid: ea3fd01eb5417a742a1481df81dc1374,
+      type: 3}
+  - DeliverySpotView: {fileID: 9078346878355579148, guid: 9f0c8217e8bccd749bac60b648ff9e50,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
